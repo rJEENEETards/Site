@@ -16,9 +16,9 @@
 
   --glow-conic: conic-gradient(
     from 180deg at 50% 50%,
-    #2a8af6 0deg,
+    #072c6d 0deg,
     #a853ba 180deg,
-    #e92a67 360deg
+    #2e47aa 360deg
   );
 }
 
